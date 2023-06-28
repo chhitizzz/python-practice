@@ -1,0 +1,1 @@
+# Program that check if a string is empty or not
