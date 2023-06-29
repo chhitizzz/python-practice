@@ -2,9 +2,8 @@
 
 character = input("Enter a letter: ")
 
-vowel = ['a', 'e', 'i', 'o', 'u']
 
-if character == vowel:
+if character == ['a', 'e', 'i', 'o', 'u']:
     print(f"{character} is a vowel")
 
 else:
