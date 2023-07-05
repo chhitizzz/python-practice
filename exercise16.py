@@ -2,5 +2,8 @@
 
 num = int(input("Enter a number: "))
 
+print(f"The multiples of {num} are:")
+
 for i in range(1, 11):
-    pass
+    multiple = num * i
+    print(multiple)
