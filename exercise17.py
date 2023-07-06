@@ -2,3 +2,8 @@
 
 str = input("Enter a string: ")
 count = 0
+
+for char in str:
+    count += 1
+
+print(f"The number of characters in {str} is: {count}")
