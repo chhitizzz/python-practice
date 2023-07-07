@@ -1,0 +1,1 @@
+# Program that asks the user for a number and uses a loop to calculate its factorial
