@@ -4,5 +4,7 @@ import random
 
 secret_number = random.randint(1, 10)
 
-num = int(input("Guess a number between 1 to 10: "))
+guess_number = 0
 
+while guess_number != secret_number:
+    guess_number = int(input("Guess the number (between 1 and 10): "))
