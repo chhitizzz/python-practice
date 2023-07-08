@@ -11,3 +11,8 @@ while guess_number != secret_number:
 
     if guess_number == secret_number:
         print("Congratulations! You have guessed the correct number.")
+
+    else:
+        print("Wrong guess. Try again.")
+
+
