@@ -1,0 +1,1 @@
+# Program that calculates the sum of all even numbers from 1 to 50 using a loop
