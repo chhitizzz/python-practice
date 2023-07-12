@@ -10,3 +10,10 @@ for i in range (1, 11):
 print("")
 
 #! Method 2: Using while loop 
+
+number = int(input("Enter a number: "))
+j = 1
+
+while j <= 10:
+    print(f"{number} x {j} = {number * j}")
+    j = j + 1
