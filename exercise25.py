@@ -18,4 +18,9 @@ while temp > 0:
     digit = temp % 10
     cube = digit ** 3
     sum = sum + cube
-    fd = temp // 10
+    temp //= 10
+
+if sum == num:
+    print(f"{num} is an Armstrong Number.")
+else:
+    print(f"{num} is not an Armstrong Number.")
