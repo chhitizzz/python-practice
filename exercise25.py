@@ -16,3 +16,6 @@ temp = num
 
 while temp > 0:
     digit = temp % 10
+    cube = digit ** 3
+    sum = sum + cube
+    fd = temp // 10
