@@ -3,6 +3,7 @@
 lower = int(input("Enter the lower limit: "))
 upper = int(input("Enter the upper limit: "))
 
+print(f"The Armstrong number ranging from {lower} to {upper} is: ")
 
 for num in range(lower, upper + 1):
     order = len(str(num))
@@ -15,4 +16,4 @@ for num in range(lower, upper + 1):
         temp //= 10
         
     if num == sum:
-        print(f"The Armstrong number ranging from {lower} to {upper} is: {num}")
+        print(num)
