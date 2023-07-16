@@ -1,0 +1,1 @@
+# Program to display powers of 2 using anonymous function 
