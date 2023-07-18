@@ -1,0 +1,5 @@
+------- Python Questions -------
+
+1. Program to add two numbers 
+2. Program to find square root of a number
+3. Program to calculate area of triangle 
