@@ -1,4 +1,4 @@
-# Program to check if a given string is a Palindrome or not
+# Program to check if a given string is a palindrome or not
 
 string = input("Enter a string: ")
 
