@@ -1,1 +1,1 @@
-# Program to count the number of characters in a string
+# Program to check if a given string is a Palindrome or not
