@@ -1,5 +1,31 @@
 ------- Python Questions -------
 
-1. Program to add two numbers 
-2. Program to find square root of a number
-3. Program to calculate area of triangle 
+1. Program to add two numbers. 
+2. Program to find square root of a number.
+3. Program to calculate area of triangle. 
+4. Program to swap two variables.
+5. Program to convert celsius to fahrenheit.
+6. Program to check if a number is positive, negative or zero.
+7. Program to check if a number is even or odd. 
+8. Program to find largest number among three numbers.
+9. Program that check if a string is empty or not.
+10. Program to check if a character is a vowel or consonant.
+11. Program to find if a given number is a prime number or not.
+12. Program to check leap year.
+13. Program to print the numbers from 1 to 20.
+14. Program to print even numbers from 1 to 20.
+15. Program to print the square numbers from 1 to 10.
+16. Program that asks the user for a number and uses a loop to print the multiples of that number up to 10.
+17. Program that asks the user to enter a string and uses a loop to count the number of characters in the string.
+18. Program that asks the user for a number and uses a loop to calculate its factorial.
+19. Program that generates a random number between 1 and 10 and asks the user to guess the number. The program should continue asking for guesses until the user guesses correctly.
+20. Program that asks the user for a number and uses a loop to print a triangle pattern of asterisks. The number of rows in the triangle should be equal to the entered number.
+21. Program that asks the user to enter a string and uses a loop to count the number of vowels (a, e, i, o, u) in the string.
+22. Program that calculates the sum of all even numbers from 1 to 50 using a loop
+23. Program to display the multiplication table. 
+24. Program to print the Fibonacci Sequence.
+25. Program to check Armstrong number.
+26. Program to find Armstrong Number in an interval.
+27. Program to display powers of 2 using anonymous function.
+28. Program to print a given string in uppercase.
+29. Program to check if a given string is a palindrome or not.
