@@ -1,5 +1,7 @@
 # Program to concatenate two strings
 
+# Concatenate means to join two or more strings together to create a single, longer string.
+
 string1 = input("Enter first string: ")
 string2 = input("Enter second string: ")
 
