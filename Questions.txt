@@ -31,3 +31,4 @@
 29. Program to check if a given string is a palindrome or not.
 30. Program to concatenate two strings.
 31. Program to reverse a string.
+32. Program to remove the vowels from a string.
