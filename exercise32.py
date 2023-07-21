@@ -5,4 +5,7 @@ string = input("Enter a string: ")
 replacements = [('a', ""), ("e", ""), ("i", ""), ("o", ""), ("u", "")]
 
 for char, replacement in replacements:
-    pass
+    if char in string: 
+        string = string.lower().replace(char, replacement)
+
+print(string)
