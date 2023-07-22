@@ -32,3 +32,4 @@
 30. Program to concatenate two strings.
 31. Program to reverse a string.
 32. Program to remove the vowels from a string.
+33. Program to count the occurrences of a specific character in a string.
