@@ -9,13 +9,13 @@ string1 = string1.replace(" ", " ").lower()
 string2 = string2.replace(" ", " ").lower()
 
 if len(string1) != len(string2):
-    print("The strings are not anagram.")
+    print(f"The strings {string1} and {string2} are not anagram.")
 
 else: 
     sorted_str1 = sorted(string1)
     sorted_str2 = sorted(string2)
 
     if sorted_str1 == sorted_str2:
-        print("The strings are anagrams.")
+        print(f"The strings {string1} and {string2} are anagrams.")
     else: 
-        print("The strings are not anagrams.")
+        print(f"The strings {string1} and {string2} are not anagrams.")
