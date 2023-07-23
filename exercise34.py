@@ -7,3 +7,10 @@ string2 = input("Enter second string: ")
 
 string1 = string1.replace(" ", " ").lower()
 string2 = string2.replace(" ", " ").lower()
+
+if len(string1) != len(string2):
+    print("The strings are not anagram.")
+
+else: 
+    sorted_str1 = sorted(string1)
+    sorted_str2 = sorted(string2)
