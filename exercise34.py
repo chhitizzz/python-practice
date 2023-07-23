@@ -14,3 +14,8 @@ if len(string1) != len(string2):
 else: 
     sorted_str1 = sorted(string1)
     sorted_str2 = sorted(string2)
+
+    if sorted_str1 == sorted_str2:
+        print("The strings are anagrams.")
+    else: 
+        print("The strings are not anagrams.")
