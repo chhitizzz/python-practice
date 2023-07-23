@@ -33,3 +33,4 @@
 31. Program to reverse a string.
 32. Program to remove the vowels from a string.
 33. Program to count the occurrences of a specific character in a string.
+34. Program to check if a given string is an anagram of another string.
