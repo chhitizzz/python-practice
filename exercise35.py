@@ -11,3 +11,4 @@ for word in words:
     if word_length > longest_word_length:
         longest_word_length = word_length
 
+print(f"Length of the longest word is {longest_word_length}")
