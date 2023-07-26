@@ -1,0 +1,1 @@
+# Program to check if a given string starts with a specific prefix.
