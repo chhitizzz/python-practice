@@ -38,3 +38,4 @@
 36. Program to capitalize the first letter of each word in a sentence.
 37. Program to check if a given string starts with a specific prefix.
 38. Program to check if a given string ends with a specific suffix.
+39. Program to extract the file extension from a given file name.
