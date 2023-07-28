@@ -1,0 +1,1 @@
+# Program to extract the file extension from a given file name
