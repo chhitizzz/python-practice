@@ -2,6 +2,7 @@
 
 file_name = input("Enter a file name: ")
 
+# dot (.) character to locate the extension
 dot_index = file_name.rfind(".")
 
 if dot_index != -1:
