@@ -2,5 +2,5 @@
 
 sports = ['Football', 'Basketball', 'Cricket', 'Tennis', 'Swimming']
 
-for elements in enumerate(sports, start=1):
-    print(elements)
+for index, elements in enumerate(sports, start=1):
+    print(index, elements)
