@@ -42,3 +42,4 @@
 40. Program to replace all occurrences of a specific word in a string with another word.
 41. Program to split a string into a list of words.
 42. Program to print the elements of a list.
+43. Program to find the length of a list.
