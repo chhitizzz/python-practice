@@ -44,3 +44,4 @@
 42. Program to print the elements of a list.
 43. Program to find the length of a list.
 44. Program to access the nth element of a list.
+45. Program to append an element to a list.
