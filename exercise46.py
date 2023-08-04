@@ -1,0 +1,1 @@
+# Program to remove an element from a list
