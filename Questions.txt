@@ -46,3 +46,4 @@
 44. Program to access the nth element of a list.
 45. Program to append an element to a list.
 46. Program to remove an element from a list.
+47. Program to sort a list in ascending order.
