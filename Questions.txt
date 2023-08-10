@@ -51,3 +51,4 @@
 49. Program to find the maximum and minimum elements in a list.
 50. Program to check if a given element exists in a list.
 51. Program to find the sum of all elements in a list.
+52. Program to print the elements of a tuple.
