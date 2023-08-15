@@ -7,7 +7,7 @@ print("The tuple is:", myTuple)
 elementToCheck = int(input("Enter the element to check: "))
 
 if elementToCheck in myTuple:
-    print("The element is in the tuple.")
+    print(f"The element {elementToCheck} is in the tuple.")
 
 else:
-    print("The element is not in the tuple.")
+    print(f"The element {elementToCheck} is not in the tuple.")
