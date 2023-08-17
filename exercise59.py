@@ -10,3 +10,6 @@ result = myTuple.index(indexOfElement)
 
 if result >= 0: 
     print(f'The element {indexOfElement} lies in index {result} in the tuple.')
+
+else:
+    print(f'The element {indexOfElement} is not in the tupple.')
