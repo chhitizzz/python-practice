@@ -4,8 +4,9 @@ myTuple = (10, 20, 30, 40, 50, 60)
 
 print("The tuple is:", myTuple)
 
-indexOfElement = int(input("Enter the element to find in the tuple:"))
+indexOfElement = int(input("Enter the element to find in the tuple: "))
 
 result = myTuple.index(indexOfElement)
 
-print(result)
+if result >= 0: 
+    print(f'The element {indexOfElement} lies in index {result} in the tuple.')
