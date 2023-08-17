@@ -6,10 +6,9 @@ print("The tuple is:", myTuple)
 
 indexOfElement = int(input("Enter the element to find in the tuple: "))
 
-result = myTuple.index(indexOfElement)
+try:
+    index = myTuple.index(indexOfElement)
+    print(f'The element {indexOfElement} lies in index {index} in the tuple.')
 
-if result >= 0: 
-    print(f'The element {indexOfElement} lies in index {result} in the tuple.')
-
-else:
-    print(f'The element {indexOfElement} is not in the tupple.')
+except ValueError:
+    print(f'The element {indexOfElement} is not in the tuple.')
