@@ -2,6 +2,8 @@
 
 myTuple = (20, 40, 10, 30, 60, 50)
 
+print("The tuple is:", myTuple)
+
 maximum_element = max(myTuple)
 minimum_element = min(myTuple)
 
