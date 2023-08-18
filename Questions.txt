@@ -59,3 +59,4 @@
 57. Program to check if an element exists in a tuple.
 58. Program to count the occurrences of an element in a tuple.
 59. Program to find the index of an element in a tuple.
+60. Program to find the maximum and minimum elements in a tuple.
