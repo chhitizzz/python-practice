@@ -61,3 +61,4 @@
 59. Program to find the index of an element in a tuple.
 60. Program to find the maximum and minimum elements in a tuple.
 61. Program to slice a tuple.
+62. Function that takes two numbers as arguments and returns their sum.
