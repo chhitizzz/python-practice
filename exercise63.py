@@ -21,4 +21,4 @@ if average_result is not None:
     print(f"The average of the numbers is {average_result:.2f}")
 
 else:
-    print("The list is empty.")
+    print("The list is empty. Please enter a valid input.")
