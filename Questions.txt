@@ -62,3 +62,4 @@
 60. Program to find the maximum and minimum elements in a tuple.
 61. Program to slice a tuple.
 62. Function that takes two numbers as arguments and returns their sum.
+63. Function called `calculate_average` that takes a list of numbers as an argument and returns the average (mean) of the numbers.
