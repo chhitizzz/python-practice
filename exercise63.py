@@ -7,3 +7,10 @@ def calculate_average(numbers):
     total = sum(numbers)
     average = total / len(numbers)
     return average
+
+num_count = int(input("Enter the number of elements:"))
+num_list = []
+
+for i in range(num_count):
+    num = float(input(f"Enter number {i + 1}: "))
+    num_list.append(num)
