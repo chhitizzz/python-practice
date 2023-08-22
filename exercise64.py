@@ -1,0 +1,1 @@
+# Function that takes a string as argument and prints its length 
