@@ -1,0 +1,1 @@
+# Function that takes a list of numbers as an argument and returns the sum of all even numbers in the list
