@@ -11,3 +11,7 @@ def even_numbers_sum (numbers):
 
 numCount = int(input("Enter the number of elements: "))
 numList = []
+
+for i in range(numCount):
+    num = int(input(f"Enter number {i + 1}: "))
+    numList.append(num)
