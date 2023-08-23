@@ -15,3 +15,6 @@ numList = []
 for i in range(numCount):
     num = int(input(f"Enter number {i + 1}: "))
     numList.append(num)
+
+result = even_numbers_sum(numList)
+print(f"The sum of even numbers is {result}")
