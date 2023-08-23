@@ -6,3 +6,8 @@ def even_numbers_sum (numbers):
     for num in numbers:
         if num % 2 == 0:
             evenSum += num
+
+    return evenSum
+
+numCount = int(input("Enter the number of elements: "))
+numList = []
