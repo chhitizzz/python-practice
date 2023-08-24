@@ -17,3 +17,6 @@ for i in range(string_count):
     string_list.append(string)
 
 search_string = input("Enter the search string: ")
+
+result = find_string_with_substring(string_list, search_string)
+print("Strings containing the search string: ", result)
