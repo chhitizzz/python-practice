@@ -65,3 +65,4 @@
 63. Function called `calculate_average` that takes a list of numbers as an argument and returns the average (mean) of the numbers.
 64. Function that takes a string as argument and prints its length. 
 65. Function that takes a list of numbers as an argument and returns the sum of all even numbers in the list.
+66. Function that takes a list of strings and a search string as arguments and returns a list of strings containing the search string.
