@@ -1,0 +1,1 @@
+# Function that takes a number as an argument and returns "Even" if the number is even, and "Odd" if it's odd
