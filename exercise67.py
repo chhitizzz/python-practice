@@ -8,3 +8,6 @@ def checkNumber(number):
         return 'Odd'
 
 num = int(input("Enter a number: "))
+
+result = checkNumber(num)
+print(f"The number {num} is {result}.") 
