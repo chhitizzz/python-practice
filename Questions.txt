@@ -66,3 +66,4 @@
 64. Function that takes a string as argument and prints its length. 
 65. Function that takes a list of numbers as an argument and returns the sum of all even numbers in the list.
 66. Function that takes a list of strings and a search string as arguments and returns a list of strings containing the search string.
+67. Function that takes a number as an argument and returns "Even" if the number is even, and "Odd" if it's odd.
