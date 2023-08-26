@@ -9,6 +9,12 @@ def positiveNumbers(numbers):
         
     return positive_numbers
 
-num = int(input("Enter the number of elements: "))
+num_count = int(input("Enter the number of elements: "))
 num_list = []
 
+for i in range(num_count):
+    num = int(input(f"Enter number {i + 1}: "))
+    num_list.append(num)
+
+result = positiveNumbers(num_list)
+print("Positive numbers:", result)
