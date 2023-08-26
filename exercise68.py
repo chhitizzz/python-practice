@@ -8,3 +8,7 @@ def positiveNumbers(numbers):
             positive_numbers.append(num)
         
     return positive_numbers
+
+num = int(input("Enter the number of elements: "))
+num_list = []
+
