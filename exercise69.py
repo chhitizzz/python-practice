@@ -1,0 +1,1 @@
+# Function that calculates the factorial of a given number using recursion
