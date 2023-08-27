@@ -6,3 +6,8 @@ def calculateFactorial(number):
     
     else: 
         return number * calculateFactorial(number - 1)
+    
+num = int(input("Enter a number: "))
+
+result = calculateFactorial(num)
+print(f"The factorial of {num} is {result}.")
