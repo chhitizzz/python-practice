@@ -68,3 +68,4 @@
 66. Function that takes a list of strings and a search string as arguments and returns a list of strings containing the search string.
 67. Function that takes a number as an argument and returns "Even" if the number is even, and "Odd" if it's odd.
 68. Function that takes a list of numbers as an argument and returns a new list containing only the positive numbers.
+69. Function that calculates the factorial of a given number using recursion.
