@@ -11,3 +11,8 @@ def count_characters(string):
             char_count[char] = 1
 
     return char_count
+
+input_string = input("Enter a string: ")
+
+result = count_characters(input_string)
+print("Character count: ", result)
