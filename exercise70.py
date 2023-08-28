@@ -1,0 +1,1 @@
+# Function that takes a string as an argument and returns a dictionary with the count of each character in the string
