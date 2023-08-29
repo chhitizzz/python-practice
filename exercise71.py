@@ -1,0 +1,1 @@
+# Function that calculates the power of a number. It should have a default exponent of 2
