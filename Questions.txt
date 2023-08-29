@@ -70,3 +70,4 @@
 68. Function that takes a list of numbers as an argument and returns a new list containing only the positive numbers.
 69. Function that calculates the factorial of a given number using recursion.
 70. Function that takes a string as an argument and returns a dictionary with the count of each character in the string.
+71. Function that calculates the power of a number. It should have a default exponent of 2.
