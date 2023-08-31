@@ -1,0 +1,1 @@
+# Function that calculates the area of a rectangle given its width and height. Then, write a function that calculates the area of a triangle given its base and height
