@@ -13,3 +13,9 @@ rect_height = float(input("Enter the height of the rectangle: "))
 
 rect_area = rectangleArea(rect_width, rect_height)
 print(f"The area of the rectangle is {rect_area:.2f} square units.")
+
+tri_base = float(input("Enter the base of the triangle: "))
+tri_height = float(input("Enter the height of the triangle: "))
+
+tri_area = triangleArea(tri_base, tri_height)
+print(f"The area of the triangle is {tri_area:.2f} square units.")
