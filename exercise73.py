@@ -4,6 +4,10 @@ def rectangleArea(width, height):
     area = width * height
     return area 
 
+def triangleArea(base, height):
+    area = 0.5 * base * height
+    return area
+
 rect_width = float(input("Enter the width of the rectangle: "))
 rect_height = float(input("Enter the height of the rectangle: "))
 
