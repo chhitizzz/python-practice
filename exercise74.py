@@ -15,3 +15,12 @@ num_list = []
 for i in range(num_count):
     num = float(input(f"Enter number {i + 1}: "))
     num_list.append(num)
+
+minmaxResult = findMinMax(num_list)
+
+if minmaxResult is not None: 
+    min_value, max_value = minmaxResult
+    print(f"The minimum value is {min_value} and the maximum value is {max_value}")
+
+else: 
+    print("The list is empty.")
