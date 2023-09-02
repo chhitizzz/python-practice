@@ -11,5 +11,13 @@ def firstLastChar(string):
 
 user_input = input("Enter a string: ")
 
+print(f"The word is {user_input}.")
+
 result = firstLastChar(user_input)
 
+if result is not None:
+    firstChar, lastChar = result
+    print(f"The first character is '{firstChar}' and the last character is '{lastChar}'.")
+
+else:
+    print("The string is empty.")
