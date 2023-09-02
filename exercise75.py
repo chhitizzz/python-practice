@@ -9,3 +9,7 @@ def firstLastChar(string):
 
     return(firstChar, lastChar)
 
+user_input = input("Enter a string: ")
+
+result = firstLastChar(user_input)
+
