@@ -4,3 +4,6 @@ import random
 
 def sixSidedDice():
     return random.randint(1, 6)
+
+result = sixSidedDice()
+print(f"The dice rolled: {result}")
