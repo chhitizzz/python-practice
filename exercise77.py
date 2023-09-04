@@ -13,3 +13,8 @@ def generatePassword(length):
     password = ''.join(random.choice(character) for _ in range(length))
 
     return password
+
+password_length = int(input("Enter the desired password length: "))
+
+password = generatePassword(password_length)
+print(f"Your password is: ", password)
