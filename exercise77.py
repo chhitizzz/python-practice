@@ -1,0 +1,1 @@
+# Function that generates a random password of a given length. Allow the function to include letters, digits, and special characters.
