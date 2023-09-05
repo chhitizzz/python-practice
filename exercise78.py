@@ -9,3 +9,8 @@ def fibonacci_sequence(n):
 
     else:
         return fibonacci_sequence(n - 1) + fibonacci_sequence(n - 2)
+    
+n = int(input("Enter the value of n to calculate the nth Fibonacci number: "))
+
+result = fibonacci_sequence(n)
+print(f"The {n}th Fibonacci number is {result}")
