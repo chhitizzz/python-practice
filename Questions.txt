@@ -77,3 +77,4 @@
 75. Function that takes a string as an argument and returns the first and last characters as a tuple.
 76. Function that simulates rolling a six-sided dice. It should return a random number between 1 and 6.
 77. Function that generates a random password of a given length. Allow the function to include letters, digits, and special characters.
+78. Recursive function to calculate the nth Fibonacci number.
