@@ -1,0 +1,1 @@
+# Function that takes a list of numbers and a function as arguments and applies the function to each element of the list
