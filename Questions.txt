@@ -79,3 +79,4 @@
 77. Function that generates a random password of a given length. Allow the function to include letters, digits, and special characters.
 78. Recursive function to calculate the nth Fibonacci number.
 79. Recursive function to calculate the factorial of a given number.
+80. Function that takes a list of numbers and a function as arguments and applies the function to each element of the list.
