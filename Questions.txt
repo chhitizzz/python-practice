@@ -80,3 +80,4 @@
 78. Recursive function to calculate the nth Fibonacci number.
 79. Recursive function to calculate the factorial of a given number.
 80. Function that takes a list of numbers and a function as arguments and applies the function to each element of the list.
+81. Function that takes a list of strings and a function as arguments and returns a new list containing strings that satisfy the given function.
