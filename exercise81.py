@@ -1,0 +1,1 @@
+# Function that takes a list of strings and a function as arguments and returns a new list containing strings that satisfy the given function
