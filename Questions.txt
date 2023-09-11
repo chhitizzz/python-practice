@@ -83,3 +83,4 @@
 81. Function that takes a list of strings and a function as arguments and returns a new list containing strings that satisfy the given function.
 82. Program to print the elements of a set.
 83. Program to find the length of a set.
+84. Program to add an element to a set.
