@@ -84,3 +84,4 @@
 82. Program to print the elements of a set.
 83. Program to find the length of a set.
 84. Program to add an element to a set.
+85. Program to remove an element from a set.
