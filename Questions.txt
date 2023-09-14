@@ -86,3 +86,4 @@
 84. Program to add an element to a set.
 85. Program to remove an element from a set.
 86. Program to perform set union and intersection.
+87. Program to check if an element exists in a set.
