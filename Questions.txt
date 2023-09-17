@@ -89,3 +89,4 @@
 87. Program to check if an element exists in a set.
 88. Program to find the difference between two sets.
 89. Program to check if two sets are equal or not.
+90. Program to remove duplicates from a list using a set.
