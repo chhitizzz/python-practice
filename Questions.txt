@@ -91,3 +91,4 @@
 89. Program to check if two sets are equal or not.
 90. Program to remove duplicates from a list using a set.
 91. Program to convert a list to a set.
+92. Program to print the key-value pairs of a dictionary.
