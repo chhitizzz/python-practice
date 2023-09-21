@@ -13,3 +13,6 @@ myDict = {
     'country': 'Nepal'
 }
 
+key_to_access = 'country'
+
+result = accessDictionary(myDict, key_to_access)
