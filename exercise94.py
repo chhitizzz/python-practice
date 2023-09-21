@@ -16,3 +16,9 @@ myDict = {
 key_to_access = 'country'
 
 result = accessDictionary(myDict, key_to_access)
+
+if result is not None: 
+    print(f"The value associated with the key {key_to_access} is {result}.")
+
+else: 
+    print(f"The key {key_to_access} doesn't exist in the dictionary.")
