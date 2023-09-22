@@ -94,3 +94,4 @@
 92. Program to print the key-value pairs of a dictionary.
 93. Program to find the length of a dictionary.
 94. Program to access the value associated with a specific key in a dictionary.
+95. Program to add a new key-value pair to a dictionary.
