@@ -5,3 +5,6 @@ myDict = {
     'team': 'Lakers',
     'country': 'USA'
 }
+
+myDict['points'] = 81
+print(myDict)
