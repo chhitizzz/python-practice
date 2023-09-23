@@ -5,3 +5,6 @@ myDict = {
     'address': 'Gotham',
     'interest': 'solving crime'
 }
+
+myDict.pop('interest')
+print(myDict)
