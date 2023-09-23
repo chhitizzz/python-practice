@@ -1,0 +1,1 @@
+# Program to remove a key-value pair from a dictionary
