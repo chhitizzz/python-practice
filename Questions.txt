@@ -96,3 +96,4 @@
 94. Program to access the value associated with a specific key in a dictionary.
 95. Program to add a new key-value pair to a dictionary.
 96. Program to remove a key-value pair from a dictionary.
+97. Program to check if a given key exists in a dictionary.
