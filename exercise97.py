@@ -9,4 +9,10 @@ myDict = {
     'age': 27
 }
 
-key_to_check = 'firstName'
+key_to_check = 'name'
+
+if check_key_existence(myDict, key_to_check):
+    print(f"The key '{key_to_check}' exists in the dictionary.")
+
+else: 
+    print(f"The key '{key_to_check}' doesn't exist in the dictionary.")
