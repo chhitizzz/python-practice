@@ -102,3 +102,4 @@
 100. Program to check if a given value exists in a dictionary.
 101. Program to iterate over the key-value pairs of a dictionary.
 102. Program to merge two dictionaries into a new dictionary.
+103. Program to sort a dictionary by its keys.
