@@ -104,3 +104,4 @@
 102. Program to merge two dictionaries into a new dictionary.
 103. Program to sort a dictionary by its keys.
 104. Program to find the key corresponding to the maximum value in a dictionary.
+105. Program to count the occurrences of each element in a list using a dictionary.
