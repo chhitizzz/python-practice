@@ -1,0 +1,1 @@
+# Program to count the occurrences of each element in a list using a dictionary
