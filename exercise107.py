@@ -1,0 +1,1 @@
+# Create an instance of the Person class and assign the values "Alice" and 30 to name and age respectively
