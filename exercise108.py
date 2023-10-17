@@ -7,3 +7,9 @@ class Person:
     
     def display_info(self):
         print(f"Name: {self.name}, Age: {self.age}")
+
+person1 = Person("Paul", 23)
+person1.display_info()
+
+person2 = Person("John", 32)
+person2.display_info()
