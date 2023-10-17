@@ -1,0 +1,1 @@
+# Create a class called `Person` with attributes `name` and `age`. Implement a method `display_info()` that prints the name and age of a person
