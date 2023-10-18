@@ -1,0 +1,1 @@
+# Create a class called `Rectangle` with attributes `length` and `width`. Implement a method `calculate_area()` that returns the area of the rectangle
