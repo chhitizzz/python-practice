@@ -108,3 +108,4 @@
 106. Create a class named Person with attributes 'name' and 'age'.
 107. Create an instance of the Person class and assign the values "Alice" and 30 to name and age respectively.
 108. Create a class called `Person` with attributes `name` and `age`. Implement a method `display_info()` that prints the name and age of a person.
+109. Create a class called `Rectangle` with attributes `length` and `width`. Implement a method `calculate_area()` that returns the area of the rectangle.
