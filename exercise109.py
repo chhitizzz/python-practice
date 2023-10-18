@@ -7,3 +7,11 @@ class Rectangle:
     
     def calculate_area(self):
         return self.length * self.width
+    
+rectangle1 = Rectangle(6, 5)
+area1 = rectangle1.calculate_area()
+print("Area of Rectangle 1:", area1)
+
+rectangle2 = Rectangle(9, 4)
+area2 = rectangle2.calculate_area()
+print("Area of Rectangle 2:", area2)
