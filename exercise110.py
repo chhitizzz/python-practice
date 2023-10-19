@@ -15,5 +15,13 @@ class Circle:
 circle1 = Circle(5)
 circumference1 = circle1.calculate_circumference()
 area1 = circle1.calculate_area()
-print("The circumference of the circle is ", circumference1)
-print("The area of the circle is ", area1)
+print(f"The circumference of the circle having radius {circle1.radius} is {circumference1:.2f}" )
+print(f"The area of the circle having radius {circle1.radius} is {area1:.2f}")
+
+print("")
+
+circle2 = Circle(10)
+circumference2 = circle2.calculate_circumference()
+area2 = circle2.calculate_area()
+print(f"The circumference of the circle having radius {circle2.radius} is {circumference2:.2f}" )
+print(f"The area of the circle having radius {circle2.radius} is {area2:.2f}")
