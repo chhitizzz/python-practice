@@ -39,3 +39,7 @@ print(f"{student3.name}'s grade is: {grade3}")
 student4 = Student("Terry", 62)
 grade4 = student4.get_grade()
 print(f"{student4.name}'s grade is: {grade4}")
+
+student5 = Student("Jack", 58)
+grade5 = student5.get_grade()
+print(f"{student5.name}'s grade is: {grade5}")
