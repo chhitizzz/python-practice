@@ -27,3 +27,7 @@ class Student:
 student1 = Student("Ben", 96)
 grade1 = student1.get_grade()
 print(f"{student1.name}'s grade is: {student1.grade}")
+
+student2 = Student("Troy", 84)
+grade2 = student2.get_grade()
+print(f"{student2.name}'s grade is: {student2.grade}")
