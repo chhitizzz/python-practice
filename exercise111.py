@@ -23,3 +23,7 @@ class Student:
         
         else:
             return 'Invalid'
+
+student1 = Student("Ben", 96)
+grade1 = student1.get_grade()
+print(f"{student1.name}'s grade is: {student1.grade}")
