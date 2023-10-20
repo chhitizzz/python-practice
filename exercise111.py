@@ -26,8 +26,12 @@ class Student:
 
 student1 = Student("Ben", 96)
 grade1 = student1.get_grade()
-print(f"{student1.name}'s grade is: {student1.grade}")
+print(f"{student1.name}'s grade is: {grade1}")
 
 student2 = Student("Troy", 84)
 grade2 = student2.get_grade()
-print(f"{student2.name}'s grade is: {student2.grade}")
+print(f"{student2.name}'s grade is: {grade2}")
+
+student3 = Student("Joe", 77)
+grade3 = student3.get_grade()
+print(f"{student3.name}'s grade is: {grade3}")
