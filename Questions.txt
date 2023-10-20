@@ -110,3 +110,4 @@
 108. Create a class called `Person` with attributes `name` and `age`. Implement a method `display_info()` that prints the name and age of a person.
 109. Create a class called `Rectangle` with attributes `length` and `width`. Implement a method `calculate_area()` that returns the area of the rectangle.
 110. Create a class called `Circle` with the attribute `radius`. Implement methods `calculate_circumference()` and `calculate_area()` that return the circumference and area of the circle, respectively.
+111. Create a class called `Student` with attributes `name` and `grade`. Implement a method `get_grade()` that returns the grade of the student as a letter (A, B, C, etc.) based on a grading scale.
