@@ -20,3 +20,8 @@ class BankAccount:
             return "Insufficient funds."
         else: 
             return "Invalid withdrawal amount."
+
+account1 = BankAccount("12345", 20000)
+print(account1.deposit(10000))
+print(account1.withdraw(5000))
+print(account1.withdraw(2000))
