@@ -11,3 +11,12 @@ class BankAccount:
             return f"Deposited: Rs. {amount}. New balance: Rs. {self.balance}"
         else:
             return "Invalid deposit amount."
+
+    def withdraw(self, amount):
+        if 0 < amount <= self.balance:
+            self.balance -= amount
+            return f"Withdraw: Rs. {amount}. New balance: Rs. {self.balance}"
+        elif amount > self.balance:
+            return "Insufficient funds."
+        else: 
+            return "Invalid withdrawal amount."
