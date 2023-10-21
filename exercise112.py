@@ -25,3 +25,10 @@ account1 = BankAccount("12345", 20000)
 print(account1.deposit(10000))
 print(account1.withdraw(5000))
 print(account1.withdraw(2000))
+
+print("")
+
+account2 = BankAccount("67891", 10000)
+print(account2.deposit(2000))
+print(account2.withdraw(1000))
+print(account2.withdraw(500))
