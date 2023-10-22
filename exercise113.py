@@ -8,3 +8,6 @@ class Car:
 
     def start_engine(self):
         print(f"{self.year} {self.make} {self.model}'s engine has started.")
+
+my_car = Car("Ford", "F-150", 2023)
+my_car.start_engine()
