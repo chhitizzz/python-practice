@@ -6,3 +6,5 @@ class Book:
         self.author = author
         self.year = year 
     
+    def get_book_info(self):
+        print(f"{self.title} was written by {self.author} in {self.year}.")
