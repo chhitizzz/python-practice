@@ -8,3 +8,6 @@ class Book:
     
     def get_book_info(self):
         print(f"{self.title} was written by {self.author} in {self.year}.")
+
+my_book = Book("The Alchemist", "Paulo Coelho", 1988)
+my_book.get_book_info()
