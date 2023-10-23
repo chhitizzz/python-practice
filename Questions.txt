@@ -113,3 +113,4 @@
 111. Create a class called `Student` with attributes `name` and `grade`. Implement a method `get_grade()` that returns the grade of the student as a letter (A, B, C, etc.) based on a grading scale.
 112. Create a class called `BankAccount` with attributes `account_number` and `balance`. Implement methods `deposit()` and `withdraw()` that update the account balance accordingly.
 113. Create a class called `Car` with attributes `make`, `model`, and `year`. Implement a method `start_engine()` that prints a message indicating that the car engine has started.
+114. Create a class called `Book` with attributes `title`, `author`, and `year`. Implement a method `get_book_info()` that prints the title, author, and year of the book.
