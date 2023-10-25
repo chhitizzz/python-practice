@@ -11,3 +11,7 @@ class Triangle:
 triangle1 = Triangle(2, 4)
 area1 = triangle1.calculate_area()
 print(f"The area of triangle is {area1}")
+
+triangle2 = Triangle(4, 6)
+area2 = triangle2.calculate_area()
+print(f"The area of triangle is {area2}")
