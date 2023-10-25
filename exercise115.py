@@ -1,0 +1,1 @@
+# Create a class called `Triangle` with attributes `base` and `height`. Implement a method `calculate_area()` that returns the area of the triangle
