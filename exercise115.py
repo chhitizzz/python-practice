@@ -5,3 +5,5 @@ class Triangle:
         self.base = base
         self.height = height 
     
+    def calculate_area(self):
+        return 0.5 * self.base * self.height
