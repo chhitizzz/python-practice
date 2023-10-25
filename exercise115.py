@@ -8,5 +8,6 @@ class Triangle:
     def calculate_area(self):
         return 0.5 * self.base * self.height
     
-area1 = Triangle(2, 4)
-print(f"The area of triangle is {area1.calculate_area()}")
+triangle1 = Triangle(2, 4)
+area1 = triangle1.calculate_area()
+print(f"The area of triangle is {area1}")
