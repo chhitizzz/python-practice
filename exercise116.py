@@ -1,0 +1,1 @@
+# Create a class called `Dog` with attribute `name`. Implement a method `bark()` that prints a message indicating that the dog is barking
