@@ -5,4 +5,7 @@ class Dog:
         self.name = name 
 
     def bark(self):
-        return f"{self.name} is barking."
+         print(f"{self.name} is barking.")
+
+my_dog = Dog("Subhu")
+my_dog.bark()
