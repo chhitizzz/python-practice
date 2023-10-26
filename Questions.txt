@@ -115,3 +115,4 @@
 113. Create a class called `Car` with attributes `make`, `model`, and `year`. Implement a method `start_engine()` that prints a message indicating that the car engine has started.
 114. Create a class called `Book` with attributes `title`, `author`, and `year`. Implement a method `get_book_info()` that prints the title, author, and year of the book.
 115. Create a class called `Triangle` with attributes `base` and `height`. Implement a method `calculate_area()` that returns the area of the triangle.
+116. Create a class called `Dog` with attribute `name`. Implement a method `bark()` that prints a message indicating that the dog is barking.
