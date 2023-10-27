@@ -15,3 +15,7 @@ class Employee:
         
         else:
             return self.salary * 0.05
+        
+employee1 = Employee("Kenny", "Manager", 50000)
+bonus1 = employee1.calculate_bonus()
+print(f"{employee1.name}'s bonus: Rs. {bonus1}")
