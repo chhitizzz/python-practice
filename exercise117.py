@@ -5,3 +5,13 @@ class Employee:
         self.name = name 
         self.position = position 
         self.salary = salary 
+
+    def calculate_bonus(self):
+        if self.position == "Manager":
+            return self.salary * 0.2 
+         
+        elif self.position == "Supervisor":
+            return self.salary * 0.1
+        
+        else:
+            return self.salary * 0.05
