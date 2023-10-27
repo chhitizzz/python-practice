@@ -1,0 +1,1 @@
+# Create a class called `Employee` with attributes `name`, `position`, and `salary`. Implement a method `calculate_bonus()` that returns a bonus amount based on the employee's position
