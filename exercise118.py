@@ -5,4 +5,8 @@ class Student:
         self.name = name
         self.age = age 
         self.grade = grade 
-        
+
+    def main():
+        student1 = Student("Troy", 18, "A")
+        student2 = Student("James", 17, "B")
+        student3 = Student("Ben", 16, "C")
