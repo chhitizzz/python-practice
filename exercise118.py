@@ -6,7 +6,15 @@ class Student:
         self.age = age 
         self.grade = grade 
 
-    def main():
-        student1 = Student("Troy", 18, "A")
-        student2 = Student("James", 17, "B")
-        student3 = Student("Ben", 16, "C")
+def main():
+    student1 = Student("Troy", 18, "A")
+    student2 = Student("James", 17, "B")        
+    student3 = Student("Ben", 16, "C")
+
+    print("Student Information")
+    print(f"Name: {student1.name}, Age: {student1.age}, Grade: {student1.grade}")
+    print(f"Name: {student2.name}, Age: {student2.age}, Grade: {student2.grade}")
+    print(f"Name: {student3.name}, Age: {student3.age}, Grade: {student3.grade}")
+
+if __name__ == "__main__":
+    main()
